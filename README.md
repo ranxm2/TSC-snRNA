@@ -11,13 +11,13 @@ This project focuses on understanding **Tuberous Sclerosis Complex (TSC)** using
 
 ## Background
 
-**Tuberous Sclerosis Complex (TSC)** is a rare genetic disorder caused by mutations in either the **TSC1** or **TSC2** genes, leading to constitutive activation of the mTOR pathway. This results in abnormal cell growth and the formation of benign tumors in multiple organs, including the brain. TSC is often accompanied by neurological symptoms such as epilepsy, autism spectrum disorder, and intellectual disability.
+> **Tuberous Sclerosis Complex (TSC)** is a rare genetic disorder caused by mutations in either the **TSC1** or **TSC2** genes, leading to constitutive activation of the mTOR pathway. This results in abnormal cell growth and the formation of benign tumors in multiple organs, including the brain. TSC is often accompanied by neurological symptoms such as epilepsy, autism spectrum disorder, and intellectual disability.
 
 Understanding how these genetic changes alter transcriptional programs at the cellular level is crucial to uncovering mechanisms of disease and potential therapeutic targets.
 
 
 
-## 🎯 Objectives
+## Objectives
 
 - Profile the transcriptomes of brain tissue from TSC and control samples at single-nucleus resolution.
 - Identify distinct cell populations using clustering and marker-based annotation.
